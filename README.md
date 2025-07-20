@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/izy138/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/izy138/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/izy138/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/izy138/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/izy138/Leetcode/tree/master/0013-roman-to-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/izy138/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/izy138/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/izy138/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
