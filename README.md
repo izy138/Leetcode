@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/izy138/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/izy138/Leetcode/tree/master/0013-roman-to-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/izy138/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/izy138/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/izy138/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
