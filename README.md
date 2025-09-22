@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/izy138/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/izy138/Leetcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/izy138/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/izy138/Leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/izy138/Leetcode/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
 | ------- |
