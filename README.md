@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/izy138/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/izy138/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/izy138/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/izy138/Leetcode/tree/master/0242-valid-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/izy138/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/izy138/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/izy138/Leetcode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/izy138/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/izy138/Leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -76,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/izy138/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/izy138/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
