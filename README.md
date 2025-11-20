@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/izy138/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/izy138/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/izy138/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/izy138/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/izy138/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/izy138/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/izy138/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/izy138/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/izy138/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/izy138/Leetcode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/izy138/Leetcode/tree/master/0165-compare-version-numbers) |
 ## Binary Search
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/izy138/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
