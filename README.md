@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/izy138/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/izy138/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/izy138/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/izy138/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/izy138/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3429-special-array-i](https://github.com/izy138/Leetcode/tree/master/3429-special-array-i) |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/izy138/Leetcode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/izy138/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/izy138/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/izy138/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/izy138/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
