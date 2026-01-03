@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/izy138/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/izy138/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/izy138/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/izy138/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/izy138/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/izy138/Leetcode/tree/master/0242-valid-anagram) |
 ## Trie
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/izy138/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/izy138/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/izy138/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/izy138/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/izy138/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/izy138/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
