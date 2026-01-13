@@ -5,12 +5,11 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        window = set()
-        for i in range(len(nums)):
-            if nums[i] in window:
-                return True
-            window.add(nums[i])
+        map = {}
 
-            if len(window)>k:
-                window.remove(nums[i-k])
+        for i in range(len(nums)):
+            if nums[i] in map and i - map[nums[i]] <= k:
+                return True
+            map[nums[i]] = i
+
         return False
