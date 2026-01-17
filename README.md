@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/izy138/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/izy138/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/izy138/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/izy138/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/izy138/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/izy138/Leetcode/tree/master/0011-container-with-most-water) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/izy138/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Counting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/izy138/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/izy138/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/izy138/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/izy138/Leetcode/tree/master/0027-remove-element) |
