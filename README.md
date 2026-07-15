@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/izy138/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/izy138/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/izy138/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/izy138/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/izy138/Leetcode/tree/master/0066-plus-one) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/izy138/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/izy138/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/izy138/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/izy138/Leetcode/tree/master/0567-permutation-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/izy138/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
